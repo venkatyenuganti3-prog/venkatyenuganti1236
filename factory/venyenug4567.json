@@ -1,0 +1,9 @@
+{
+	"name": "venyenug4567",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "53255dda-242f-4ceb-98b1-9038e5d8844f",
+		"tenantId": "2d1ea684-8b47-41c9-a580-011ccdbb4953"
+	}
+}
