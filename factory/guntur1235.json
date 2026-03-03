@@ -1,0 +1,9 @@
+{
+	"name": "guntur1235",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c970bd5c-41c6-42e2-b6b3-ea9f9bae369d",
+		"tenantId": "2d1ea684-8b47-41c9-a580-011ccdbb4953"
+	}
+}
